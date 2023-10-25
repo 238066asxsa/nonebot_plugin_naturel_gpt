@@ -26,6 +26,8 @@
 
 ## 🎏 NG 进化史
 
+### 分支支持Claude，需要在yaml中新增4个参数来源如下(CLAUDE的配置写：True)【自定义slack集成的教程-哔哩哔哩】 https://b23.tv/jZgyQLF
+
 ### 🗺️ [2023/5/21] 文档站上线
 
 插件文档站上线，欢迎访问 [ng.kro.zone](https://ng.kro.zone) 查看插件文档，感谢 [@lgc2333](https://github.com/lgc2333) 为文档站 建设/勘误/整理 提供的大力支持
